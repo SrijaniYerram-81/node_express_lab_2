@@ -13,7 +13,7 @@
 | Term | Term II |
 | Section | CSE 2-E|
 | Subject | Backend Development Fundamentals |
-| Faculty Name | Joel Prashanth D |
+| Faculty Name | YUGANDHAR SIR |
 | Lab Number | Lab 2 |
 | Lab Title | SQLite Database and CRUD Routes |
 
