@@ -218,5 +218,4 @@ app.use((request, response) => {
     });
 });
 
-// Initialize Application
 initializeDBAndServer();
