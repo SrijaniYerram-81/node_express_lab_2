@@ -11,7 +11,7 @@
 | Department | Computer Science and Engineering (CSE)-2E |
 | Academic Year | Year II |
 | Term | Term II |
-| Section | YOUR SECTION |
+| Section | CSE 2-E|
 | Subject | Backend Development Fundamentals |
 | Faculty Name | Joel Prashanth D |
 | Lab Number | Lab 2 |
